@@ -1,8 +1,7 @@
 # Hi There! 👋
 
-- Machine Learning Engineer  📊
-- **Student at  An-Najah National University - AI**
-- **Experienced in Python Programming, Machine Learning, Data Analysis, and Visualization**
+- Software Engineer  
+- **Experienced in Python, Machine Learning, Data Analysis, and Visualization**
 
 ---
 
